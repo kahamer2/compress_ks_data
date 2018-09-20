@@ -2,6 +2,7 @@
 A simple script that condenses the diagonal Kohn-Sham matrix elements output from Octopus into three files.
 
 Author: Kyle Hamer
+
 Last Updated: September 19, 2018
 
 Description:
